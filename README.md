@@ -9,7 +9,7 @@ Las respuestas de cada lección las encontraras en la carpeta `solucion`, la cua
 # Configurando el Proyecto
 
 En primer lugar tendrás [Node.js] (https://nodejs.org) y el gestor de paquetes
-que viene con él: [npm] (https://www.npmjs.com/).
+que viene con el: [npm] (https://www.npmjs.com/).
 
 
 ## Clonar el tutorial
